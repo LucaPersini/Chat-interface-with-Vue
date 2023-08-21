@@ -1,7 +1,21 @@
-# Vue 3 + Vite
+# Description
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A chat interface made with Vue
 
-## Recommended IDE Setup
+[Click here to see it](https://64e35a2e87292e10414d0c07--playful-fudge-9a8972.netlify.app/)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Technology Stack
+
+- Frontend
+  - Vue.js
+  - Tailwind
+- Deployment
+  - Netlify
+
+## Background & Motivation
+
+The goal of this project is for me to get more confident with Vue.js and Tailwind
+
+## Screenshots
+ 
+ ![](Screenshots/View.png) 
