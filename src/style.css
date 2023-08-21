@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#chat::-webkit-scrollbar {
+  display: none;
+}
+
+#chat {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
